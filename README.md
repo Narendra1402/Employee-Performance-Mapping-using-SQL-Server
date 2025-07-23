@@ -4,6 +4,9 @@ An end-to-end SQL project for **ScienceQtech**, focused on exploring, optimizing
 
 [🎥Explanation video](https://www.youtube.com/watch?v=Jfd7gPI9pew)
 
+<img width="665" height="377" alt="image" src="https://github.com/user-attachments/assets/ef946dda-d57b-4a7d-8cf5-c93379be13f5" />
+
+
 ## 🧠 About ScienceQtech
 
 ScienceQtech is a startup specializing in Data Science, with work spanning fraud detection, self-driving cars, drug discovery, customer sentiment, supply chain, and more.
