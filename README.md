@@ -92,16 +92,6 @@ This project showcases how SQL can be leveraged not just for querying, but for r
 
 
 
-## 💡 How to Use
-
-1. Clone the repository
-2. Restore or connect your SQL Server database
-3. Run scripts in `scripts/` folder in sequence
-4. Review output and optimize as needed
-
-
-
-
 ## 🔗 Connect With Me  
 Feel free to explore more of my projects and reach out:  
 - [LinkedIn](https://www.linkedin.com/in/narendrasingh1402)
